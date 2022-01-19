@@ -1,0 +1,25 @@
+[
+  { "title": "Wednesday, January 19, 2022" },
+  {
+    "teams": [
+      "MIN",
+      "NY",
+      "DET",
+      "GS",
+      "Timberwolves",
+      "Knicks",
+      "Pistons",
+      "Warriors"
+    ]
+  },
+  { "teamsRecord": [] },
+  { "gameTime": ["Final", "Final", "Final", "Final"] },
+  {
+    "photos": [
+      "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&w=32&h=32&scale=crop&cquality=40&location=origin",
+      "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&w=32&h=32&scale=crop&cquality=40&location=origin",
+      "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&w=32&h=32&scale=crop&cquality=40&location=origin",
+      "https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&w=32&h=32&scale=crop&cquality=40&location=origin"
+    ]
+  }
+]
